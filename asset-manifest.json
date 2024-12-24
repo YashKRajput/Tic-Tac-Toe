@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TypeWithYash/static/css/main.f855e6bc.css",
+    "main.js": "/TypeWithYash/static/js/main.9d952536.js",
+    "static/js/453.c525d7c0.chunk.js": "/TypeWithYash/static/js/453.c525d7c0.chunk.js",
+    "index.html": "/TypeWithYash/index.html",
+    "main.f855e6bc.css.map": "/TypeWithYash/static/css/main.f855e6bc.css.map",
+    "main.9d952536.js.map": "/TypeWithYash/static/js/main.9d952536.js.map",
+    "453.c525d7c0.chunk.js.map": "/TypeWithYash/static/js/453.c525d7c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9d952536.js"
+  ]
+}
